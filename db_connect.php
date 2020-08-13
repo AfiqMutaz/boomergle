@@ -2,7 +2,7 @@
 $server_name = "localhost";
 $database_name = "boomergle";
 $database_username = "root";
-$database_password = "A525";
+$database_password = "toor";
 
 /*connection to database
 You can use mysql_connect funcvtion to connect to the server and mysql_select_db to
