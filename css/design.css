@@ -1,0 +1,89 @@
+@import url('https://fonts.googleapis.com/css?family=Fjalla+One|Ibarra+Real+Nova|Lobster&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Oswald|Roboto&display=swap');
+h1 {
+    text-align: center;
+    display: inline-block;
+    position: left;
+    padding-left: 1.8%;
+    padding-right: 90%;
+    padding-bottom: 20px;
+    border-color: black;
+    border-width: 1.3px;
+    border-bottom-style: solid;
+
+}
+
+h1 a{
+    color: black;
+    text-decoration: none;
+}
+
+.directories{
+    margin: 13px;
+    margin-top: -25px;
+
+
+}
+
+.directories ul li{
+    list-style-type: none;
+    display: inline;
+    font-size: 19px;
+    margin-right: 50px;
+
+}
+
+.directories ul li a{
+    color: black;
+    font-family: 'Ibarra Real Nova', serif;
+}
+
+.home_page{
+
+    border-color: black;
+    border-width: 1.3px;
+    border-top-style: solid;
+
+}
+
+.imgholder{
+    width: 300px;
+    height: 300px;
+    margin-top: 20px;
+    border: 0px solid #000000;
+    border-radius: 15px
+}
+
+.images{
+    background-color: black;
+    padding: 3%;
+    margin-left: 0px;
+    margin-top: 20px;
+}
+
+.imgplacer{
+    display: inline-block;
+    margin-left: 3%;
+    margin-bottom: 3%;
+}
+
+.randomText{
+    font-family: 'Ibarra Real Nova', serif;
+
+    color: white;
+
+}
+
+.obama{
+    display: inline-block;
+    position: absolute;
+    margin-top: -200px;
+    margin-left: 350px;
+    font-size: 40px;
+    font-family: 'Oswald', sans-serif;
+    text-decoration: none;
+}
+
+.obama a{
+    color: red;
+}
